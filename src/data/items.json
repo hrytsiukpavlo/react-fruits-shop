@@ -1,15 +1,15 @@
 [
 	{
 		"id": 1,
-		"name": "Book",
-		"price": 10.99,
-		"imgUrl": "images/book.jpg"
+		"name": "Apple",
+		"price": 1,
+		"imgUrl": "images/apple.jpg"
 	},
 	{
 		"id": 2,
-		"name": "Computer",
-		"price": 1199,
-		"imgUrl": "images/computer.jpg"
+		"name": "Apricot",
+		"price": 0.8,
+		"imgUrl": "images/apricot.jpg"
 	},
 	{
 		"id": 3,
@@ -19,8 +19,92 @@
 	},
 	{
 		"id": 4,
-		"name": "Car",
-		"price": 14000,
-		"imgUrl": "images/car.jpg"
+		"name": "Blueberries",
+		"price": 2.3,
+		"imgUrl": "images/blueberries.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Grapefruit",
+		"price": 1.15,
+		"imgUrl": "images/grapefruit.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Kiwi",
+		"price": 0.5,
+		"imgUrl": "images/kiwifruit .jpg"
+	},
+	{
+		"id": 7,
+		"name": "Lime",
+		"price": 1,
+		"imgUrl": "images/lime.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Mandarin",
+		"price": 0.75,
+		"imgUrl": "images/mandarin.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Mango",
+		"price": 1.15,
+		"imgUrl": "images/mango.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Nectarine",
+		"price": 0.9,
+		"imgUrl": "images/nectarine.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Orange",
+		"price": 1,
+		"imgUrl": "images/orange.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Peach",
+		"price": 1.15,
+		"imgUrl": "images/peach.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Pear",
+		"price": 1.1,
+		"imgUrl": "images/pear.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Plums",
+		"price": 0.95,
+		"imgUrl": "images/plum.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Raspberries",
+		"price": 1.15,
+		"imgUrl": "images/raspberries.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Strawberry",
+		"price": 0.9,
+		"imgUrl": "images/strawberry.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Watermelon",
+		"price": 2,
+		"imgUrl": "images/watermelon.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Melon",
+		"price": 1.3,
+		"imgUrl": "images/melon.jpg"
 	}
 ]
